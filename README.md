@@ -1,27 +1,25 @@
-# Project Name
+# CAT PHOTO APP
 
-> One paragraph statement about the project.
+> The cat photo app: A webpage Built with Html5.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5,
+- Section, Figure, Fieldset.
+- ordered list: ol li.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://f-c-c-cat-photo-app.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone git@github.com:Djparry/fcc-cat-photo-app.git
 
 ```
 
@@ -69,17 +67,15 @@ yarn axe
 
 ## Style Guides
 
-- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 - [AXE Accessibility Style Guide](https://dequeuniversity.com/rules/axe/html/4.7)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@Djparry](https://github.com/Djparry)
+- Twitter: [@djparry5](https://x.com/djparry5?s=21&t=SAjBtwWx2bAOljIcqN9pTw)
+- Linkedin: [@Temitopeadebayo](https://www.linkedin.com/in/temitope-adebayo-927792178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 🤝 Contributing
 
@@ -93,9 +89,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Free code camp, Link to fcc cat photo app (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
 ## 📝 License
 
